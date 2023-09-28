@@ -2,7 +2,7 @@
 
 MovieSphere is a vibrant, community-driven movie platform where users can explore, discuss, and curate their favorite cinematic pieces. Crafted with React, Redux Toolkit, and TypeScript, MovieSphere promises a delightful and immersive movie experience for every cinephile.
 
-![MovieSphere Screenshot](path-to-your-screenshot.png)
+![MovieSphere Screenshot](/public/assets/movie-sphere-readmeprint.jpg)
 
 ## Features
 
@@ -14,6 +14,7 @@ MovieSphere is a vibrant, community-driven movie platform where users can explor
 ## Installation & Setup
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/your-github-username/MovieSphere.git
 
@@ -30,3 +31,4 @@ yarn add
 yarn run dev
 
 
+```
